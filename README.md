@@ -9,7 +9,7 @@ hlo
 
 ## presentación pág. web 
 
-Mi pág. web a investigar es [CINECALIDAD] (https://www.cinecalidad.to/)
+Mi pág. web a investigar es [CINECALIDAD](https://www.cinecalidad.to/)
 Esta es una pág. que **facilita** el acceso a disfrutar de películas de muy **buena calidad gratis**, 
 dando la opción de ver la película en el momento de manera online, oh descargarla para disfrutar
 de ella la veces que quieras. 
